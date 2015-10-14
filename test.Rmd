@@ -1,0 +1,7 @@
+my first rmarkdown
+...{r}
+
+
+```{r}
+summary(cars)
+```
